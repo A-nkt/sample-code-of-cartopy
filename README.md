@@ -12,12 +12,12 @@ cartopy逆引き大全を目指しています。
 - [cartopyをinstallする](./sample/basic/install_of_cartopy.ipynb)
 
 ### 描画（plot）
-- [海岸線を描く]()
-- [緯度・軽度線を描く]()
-- [国境線を描く]()
-- [表示されるエリアを日本域だけにする]()
-- [複数のグラフを作成する]()
-- [海や陸地に色をつける]()
+- [海岸線を描く](./sample/plot/plot_of_coastal_line.ipynb)
+- [緯度・軽度線を描く](./sample/plot/plot_of_lat_lon.ipynb)
+- [国境線を描く](./sample/plot/plot_of_country_line.ipynb)
+- [表示されるエリアを日本域だけにする](./sample/plot/plot_of_only_japan.ipynb)
+- [複数のグラフを作成する](./sample/plot/plot_of_mulit_graph.ipynb)
+- [海や陸地に色をつける](./sample/plot/plot_of_color_area.ipynb)
 - [パラパラ漫画(.gif)を作成する]()
 - [図法を変更する]()
 
